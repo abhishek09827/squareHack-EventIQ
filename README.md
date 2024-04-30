@@ -1,7 +1,7 @@
-# EventIQ
+# EventIQ 
 
 ### About the Project
-
+  - https://drive.google.com/file/d/1PF3R0wBjrNUkqlOAMNE0TCCY2vFfbP2D/view?usp=sharing
 ### Inspiration
 
 The motivation for our event booking application stemmed from the desire to streamline the event planning and attendance process. Observing the often fragmented and cumbersome experience associated with event discovery, ticket purchasing, and attendee networking, our team was inspired to create a unified platform that simplifies these elements. Our goal was to leverage cutting-edge technology, particularly AI, to personalize user experiences and foster community among event-goers.
