@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30537087776",
+    "project_id": "squarehack-6abd9",
+    "storage_bucket": "squarehack-6abd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30537087776:android:6f4d2bac91c0b8a011b545",
+        "android_client_info": {
+          "package_name": "com.mycompany.squarehack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkw79r_RPS3wjI5W3Z3ZiuanxDq_73fL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
