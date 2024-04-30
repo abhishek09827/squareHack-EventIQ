@@ -3,7 +3,7 @@ import 'package:google_generative_ai/google_generative_ai.dart';
 import 'package:http/http.dart' as http;
 import '/flutter_flow/flutter_flow_util.dart';
 
-const _kGemeniApiKey = 'AIzaSyAVSHjy7mpfwjsStcK9YassCIL9BZOPKkA';
+const _kGemeniApiKey = 'GoogleAPIKey';
 
 Future<String?> geminiGenerateText(
   BuildContext context,
