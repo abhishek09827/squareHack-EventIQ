@@ -48,8 +48,6 @@ Looking forward, we plan to:
 - **Enhance AI Features**: Improve the AI's accuracy and response time, and introduce multilingual support.
 - **Increase Market Reach**: Extend our services to new geographical locations and demographics.
 
-![EventIQ Logo]([insert_logo_url_here](https://ibb.co/gvXMHc4))
-
 **Login Credentials:**
 - Email: a@email.com
 - Password: 123456
